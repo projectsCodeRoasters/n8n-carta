@@ -1,0 +1,22 @@
+{
+  "restaurantName": "El Pollo Frito",
+  "slug": "mi-restaurante",
+  "menuData": [
+    {
+      "nombre": "choclo",
+      "descripcion": "choclo desc",
+      "precio": "1.10",
+      "alergenos": "pescado",
+      "categoria": "Platos",
+      "foto": ""
+    },
+    {
+      "nombre": "pollo",
+      "descripcion": "pollo entero ",
+      "precio": "5.00",
+      "alergenos": "harina",
+      "categoria": "Platos",
+      "foto": ""
+    }
+  ]
+}
